@@ -1,0 +1,12 @@
+{
+  "name": "bootstrapfastchildtheme",
+  "homepage": "https://carl.alber2.com/",
+  "authors": [
+    "Carl Alberto <carl@alber2.com>"
+  ],
+  "license": "GPL2",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "git://github.com/twbs/bootstrap.git#v4.0.0-beta"
+  }
+}

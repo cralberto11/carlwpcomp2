@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "themes.min.js": {
+      "files": [
+        "js/themes.js"
+      ],
+      "main": true
+    },
+    "themestyle.min.css": {
+      "files": [
+        "styles/theme-style.scss"
+      ],
+      "main": true
+    },
+    "editor-style.min.css": {
+      "files": [
+        "styles/editor-style.scss"
+      ],
+      "main": true
+    },
+    "woocommerce.min.css": {
+      "files": [
+        "styles/woocommerce.scss"
+      ]
+    },
+    "customizer.js": {
+      "files": [
+        "js/customizer.js"
+      ]
+    },
+    "jquery.js": {
+      "bower": ["jquery"]
+    }
+  },
+  "config": {
+    "devUrl": "http://bootstrapfast.lndo.site/"
+  },
+	"paths": {
+		"dist": "assets/",
+		"source": "src/",
+		"destscripts": "js/"
+	}
+}

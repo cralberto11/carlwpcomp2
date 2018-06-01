@@ -1,0 +1,51 @@
+.home {
+	.site-title {
+		a {
+			color: $color_header_sitetitle;
+			font-size: 1em;
+		}
+	}
+}
+
+header {
+	.widget {
+		margin: 0 0 1.5em;
+		padding-top: 1.5em;
+
+		form {
+			float: right;
+		}
+	}
+}
+
+.site-title {
+	a {
+		color: $color_header_sitetitle;
+		font-size: 2em;
+	}
+}
+
+@media screen and (max-width: $mobile_menu_breakpoint) {
+
+	header#masthead {
+		text-align: center;
+	}
+
+	.menu-toggle {
+		margin: 0 auto;
+		text-align: center;
+	}
+	.main-navigation {
+		margin-bottom: 1em;
+	}
+
+	.main-navigation a {
+		padding: 0;
+	}
+
+	.main-navigation li {
+		display: block;
+		width: 100%;
+	}
+
+}

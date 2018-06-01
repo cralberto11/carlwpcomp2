@@ -38,7 +38,7 @@ web/private/scripts/quicksilver
 # Add directories containing build assets below.
 # Keep all additions above the "cut" line.
 
-
+!web/wp-content/themes/pantheontest
 
 # :::::::::::::::::::::: cut ::::::::::::::::::::::
 
