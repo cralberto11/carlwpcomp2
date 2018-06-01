@@ -27,6 +27,7 @@
     "wpackagist-plugin/wp-to-twitter": "^3.3.6",
     "wpackagist-plugin/simple-facebook-plugin": "^1.5",
     "wpackagist-plugin/cloudflare": "^3.3.2",
+    "wpackagist-plugin/really-simple-ssl": "^3.0",
     "wpackagist-theme/twentyseventeen": "^1.1",
     "wpackagist-theme/bootstrapfast": "^1.0.4"
   },
