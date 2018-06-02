@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ea33457687228dea497fcfd480235b77",
+    "content-hash": "e0e847662bc7b21f6cc2f70fcbec4bcd",
     "packages": [
         {
             "name": "composer/installers",
@@ -459,6 +459,26 @@
             "homepage": "https://wordpress.org/plugins/simple-facebook-plugin/"
         },
         {
+            "name": "wpackagist-plugin/wordpress-importer",
+            "version": "0.6.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wordpress-importer/",
+                "reference": "tags/0.6.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-importer.0.6.4.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wordpress-importer/"
+        },
+        {
             "name": "wpackagist-plugin/wp-cerber",
             "version": "6.7.5",
             "source": {
@@ -477,6 +497,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-cerber/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-cfm",
+            "version": "1.4.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-cfm/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-cfm.zip?timestamp=1467943964",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-cfm/"
         },
         {
             "name": "wpackagist-plugin/wp-native-php-sessions",
