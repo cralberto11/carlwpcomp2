@@ -39,6 +39,7 @@ web/private/scripts/quicksilver
 # Keep all additions above the "cut" line.
 
 !web/wp-content/themes/pantheontest
+!web/wp-content/object-cache.php
 
 # :::::::::::::::::::::: cut ::::::::::::::::::::::
 
