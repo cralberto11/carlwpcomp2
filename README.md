@@ -19,4 +19,5 @@ Replicating site to local
 This will be depending on your local dev environment (Chassis, Vagrant, Lando, XAMPP, etc). Basic concept:
 1) Git clone this repo and put it in the relative folder to match your local development environment.
 2) Composer update. (Composer must be installed).
-3) Search replace the db to match the localhost url
+3) Download db from Pantheon then import in your local database. (Varies on how you setup-ed your local development)
+4) Search replace the db to match the localhost url.
