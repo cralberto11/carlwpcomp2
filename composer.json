@@ -45,6 +45,8 @@
     "wpackagist-plugin/core-control": "^1.2.1",
     "wpackagist-plugin/check-email": "^0.5.5",
     "wpackagist-plugin/jetpack": "^6.2",
+    "wpackagist-plugin/google-sitemap-generator": "^4.0.9",
+    "wpackagist-plugin/wordpress-seo": "^7.6.1",
     "wpackagist-plugin/gutenberg-custom-fields": "^1.5.2",
     "wpackagist-theme/twentyseventeen": "^1.1",
     "wpackagist-theme/bootstrapfast": "^1.0.4"
